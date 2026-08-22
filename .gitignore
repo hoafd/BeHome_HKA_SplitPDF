@@ -1,0 +1,7 @@
+*.pdf
+build/
+dist/
+*.spec
+__pycache__/
+.pytest_cache/
+*.pyc
